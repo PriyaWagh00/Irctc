@@ -1,0 +1,60 @@
+
+
+.hero {
+    position: relative;
+    text-align: center;
+    padding: 3rem;
+    background: url("https://c8.alamy.com/comp/2RY2PJ5/kottaymkeralaindia-april-14th-2023-a-newly-launched-modern-vande-bharat-express-train-by-indian-railways-passing-through-kottayam-kerala-2RY2PJ5.jpg") no-repeat center center/cover;
+    color: white;
+  }
+  
+  .text-container {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    text-align: right;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
+  .text-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 0;
+    color: #ffcc00;
+  }
+  
+  .text-subtitle {
+    font-size: 1.2rem;
+    margin: 0.3rem 0;
+    color: #ffffff;
+  }
+  
+  .hero-content {
+    margin-top: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hero-content-box {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .hero-content h1 {
+    /* color: green; */
+    font-weight: 900;
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero-content p {
+    /* color: #ffcc00; */
+    font-size: 1.4rem;
+    margin: 0;
+  }
+  
